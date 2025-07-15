@@ -4,7 +4,6 @@
       servers = {
         ccls = {
           enable = true;
-
           initOptions.compilationDatabaseDirectory = "build";
         };
       };
