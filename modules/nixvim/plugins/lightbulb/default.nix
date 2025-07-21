@@ -2,7 +2,7 @@
 {
   plugins = {
     nvim-lightbulb = {
-      enable = true;
+      enable = false;
       package = pkgs.vimPlugins.nvim-lightbulb.overrideAttrs (_old: {
         patches = [
           (pkgs.fetchpatch {
