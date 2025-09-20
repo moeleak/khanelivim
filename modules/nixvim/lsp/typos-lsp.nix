@@ -1,6 +1,6 @@
 {
   lsp.servers.typos_lsp = {
-    enable = true;
+    enable = false;
     config = {
       init_options = {
         diagnosticSeverity = "Hint";

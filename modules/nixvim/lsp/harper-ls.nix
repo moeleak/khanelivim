@@ -1,6 +1,6 @@
 {
   lsp.servers.harper_ls = {
-    enable = true;
+    enable = false;
     config = {
       filetypes = [
         "markdown"
