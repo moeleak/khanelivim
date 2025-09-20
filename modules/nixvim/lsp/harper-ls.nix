@@ -1,6 +1,6 @@
 {
   lsp.servers.harper_ls = {
-    enable = true;
+    enable = false;
     settings.settings = {
       "harper-ls" = {
         # Defaults https://github.com/Automattic/harper/blob/7bdc753b54cec79702807fb81a8defafc4a3f1be/harper-core/src/linting/lint_group.rs#L152C1-L187C3
